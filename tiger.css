@@ -27,6 +27,9 @@ section {
     text-align: center;
 }
 
+#font {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 #image {
     background-image: url("images/Sibirisk\ tiger.webp");
