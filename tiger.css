@@ -15,12 +15,18 @@ body {
 }
 
 .nav {
-    display: inline-block;
-    padding: 0 10px;
-    max-width: 600px;
-    text-decoration: underline;
+    padding: 10px 0 10px 0;
+    text-decoration: underline dotted;
     font-size: 18px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 5px;
 }
+
+section {
+    text-align: center;
+}
+
 
 #image {
     background-image: url("images/Sibirisk\ tiger.webp");
@@ -42,4 +48,8 @@ body {
 h3 {
     font-size: 25px;
     font-weight: bold;
+}
+
+footer {
+    padding: 30px;
 }
