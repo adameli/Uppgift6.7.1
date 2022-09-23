@@ -7,6 +7,13 @@ body {
     text-align: center;
 }
 
+#border {
+    background-color: beige;
+    padding: 20px 0;
+    color: #8c7a1a;
+    border-radius: 10px;
+}
+
 .nav {
     display: inline-block;
     padding: 0 10px;
